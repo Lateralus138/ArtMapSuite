@@ -8,11 +8,11 @@
 
 Projects to be released here:
 
-|Name|Language|Description|
-|:---|:------:|----------:|
-|AM Closest|C++|Find the closest ArtMap item or associated color value from any hexadecimal color.|
-|AM Map Image|Python/Nuitka|Map image pixels for use in Minecraft's ArtMap plugin.|
-|AM Remapper|Python/Nuitka|Remap an image's pixels to the closest colors available in the Minecraft ArtMap plugin.|
+|Name|URL|Language|Description|
+|:---|:-:|:------:|----------:|
+|AM Closest|[ArtMapClosest](https://github.com/Lateralus138/ArtMapClosest)|C++|Find the closest ArtMap item or associated color value from any hexadecimal color.|
+|AM Map Image||Python/Nuitka|Map image pixels for use in Minecraft's ArtMap plugin.|
+|AM Remapper||Python/Nuitka|Remap an image's pixels to the closest colors available in the Minecraft ArtMap plugin.|
 
 ---
 
