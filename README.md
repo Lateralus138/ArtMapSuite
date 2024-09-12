@@ -1,5 +1,3 @@
-<!-- # ArtMap Suite -->
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&repo=ArtMapSuite)
 
 ---
@@ -21,7 +19,7 @@
 ### Completion Status
 
  - [x] ArtMap Clostest
- - [ ] ArtMap Map Image
+ - [x] ArtMap Map Image
  - [ ] ArtMa Remapper
 
 
